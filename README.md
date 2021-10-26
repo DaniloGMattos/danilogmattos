@@ -3,17 +3,19 @@
  <h2>Hello world!<img src="https://i.imgur.com/TPcSwrt.gif" width="50"></h2> 
 
 
+<br/>
+I'm Danilo Mattos, a fullstack developer, passionate about building new thing and entrepreneurship, who loves challenges and  learning new things.
+<br/>
 
+- 🔭 I’m currently working on front-end web and mobile development
+- 🌱 I’m currently learning and improving SOLID and Docker
+- 🤔 I’m looking for help with how to start small collaborations on github projects and how to engage more with the dev community around the world
+- 💬 Ask me about technology, anime, games , crossfit and basketball
+- 📫 How to reach me: contato@dmattos.dev
+- 😄 Pronouns: he, him, his
+- ⚡ Fun fact: I'am an Crossfit and fitness enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+##
 
 <h3 align="left">Connect with me:</h3>
 <div>  
