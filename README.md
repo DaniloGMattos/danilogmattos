@@ -3,8 +3,9 @@
  <h2>Hello world!<img src="https://i.imgur.com/TPcSwrt.gif" width="50"></h2> 
 
 
-<br/>
+
 I'm Danilo Mattos, a fullstack developer, passionate about building new thing and entrepreneurship, who loves challenges and  learning new things.
+<br/>
 <br/>
 
 - 🔭 I’m currently working on front-end web and mobile development
