@@ -1,5 +1,5 @@
 
-![Baner](https://i.imgur.com/GwjLKCz.gif)
+![Banner](https://i.imgur.com/uQ6nVjB.gif)
 ### Hi there 👋
 
 <!--
