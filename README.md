@@ -1,6 +1,7 @@
 
 ![Banner](https://i.imgur.com/uQ6nVjB.gif)
-### Hi there 👋
+ <h2>Hello world!<img src="https://imgur.com/TPcSwrt" width="50"></h2> 
+
 
 <!--
 **DaniloGMattos/danilogmattos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
