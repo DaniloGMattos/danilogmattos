@@ -17,14 +17,13 @@ I'm Danilo Mattos, a fullstack developer, passionate about building new thing an
 - ⚡ Fun fact: I'am an Crossfit and fitness enthusiast
 
 ##
-
+<div>
+  <a href="https://github.com/ManuCoutinho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloGMattos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 <h3 align="left">Connect with me:</h3>
 <div>  
   <a href="https://www.linkedin.com/in/danilomattos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:contato@dmattos.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 <br>
-<div>
-  <a href="https://github.com/ManuCoutinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloGMattos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
