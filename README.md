@@ -21,6 +21,7 @@ I'm Danilo Mattos, a fullstack developer, passionate about building new thing an
   <a href="https://github.com/ManuCoutinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloGMattos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
+##
 <h3 align="left">Connect with me:</h3>
 <div>  
   <a href="https://www.linkedin.com/in/danilomattos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
