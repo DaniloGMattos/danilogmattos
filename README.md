@@ -4,7 +4,7 @@
 
 
 
-I'm Danilo Mattos, a fullstack developer, passionate about building new thing and entrepreneurship, who loves challenges and  learning new things.
+I'm Danilo Mattos, a fullstack developer, passionate about building new things and entrepreneurship, who loves challenges and  learning new things.
 <br/>
 <br/>
 
