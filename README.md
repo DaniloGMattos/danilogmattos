@@ -8,7 +8,7 @@ I'm Danilo Mattos, a fullstack developer, passionate about building new things a
 <br/>
 <br/>
 
-- 🔭 I’m currently working on front-end web and mobile development
+- 🔭 I’m currently working with fullstack development
 - 🌱 I’m currently learning and improving SOLID and Docker
 - 🤔 I’m looking for help with how to start small collaborations on github projects and how to engage more with the dev community around the world
 - 💬 Ask me about technology, anime, games , crossfit and basketball
@@ -16,12 +16,12 @@ I'm Danilo Mattos, a fullstack developer, passionate about building new things a
 - 😄 Pronouns: he, him, his
 - ⚡ Fun fact: I'am an Crossfit and fitness enthusiast
 
-##
-<div>
-  <a href="https://github.com/ManuCoutinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloGMattos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
- 
+ ### Projects Organized by Skills       🚧this area is under adjustments🚧
+
+| GitHub projects                                                               | Status | Skills | Short description                                         | TechStack                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------- | --------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [dmattos.dev](https://github.com/DaniloGMattos/dmattos.dev)                           | Under development   | Server side rendering, SEO, Design, Blog development and working with CMS      | Personal portfolio       |       Typescript, NextJS, ReactJs, Stiches, Radix.  |
+| [dev.news](https://github.com/DaniloGMattos/dev.news) | Finished -- documenting   | Server side rendering, Usage of paymaent gateways, Design, Blog development and working with CMS      | A blogging platform     |       Typescript, NextJS, ReactJs,Prismic, SCSS, Stripe|
 ##
 <h3 align="left">Connect with me:</h3>
 <div>  
