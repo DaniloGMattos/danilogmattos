@@ -16,12 +16,7 @@ I'm Danilo Mattos, a fullstack developer, passionate about building new things a
 - 😄 Pronouns: he, him, his
 - ⚡ Fun fact: I'am an Crossfit and fitness enthusiast
 
- ### Projects Organized by Skills       🚧this area is under adjustments🚧
 
-| GitHub projects                                                               | Status | Skills | Short description                                         | TechStack                                                                                                                                                                          |
-| ------------------------------------------------------------------------------------- | --------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [dmattos.dev](https://github.com/DaniloGMattos/dmattos.dev)                           | Under development   | Server side rendering, SEO, Design, Blog development and working with CMS      | Personal portfolio       |       Typescript, NextJS, ReactJs, Stiches, Radix.  |
-| [dev.news](https://github.com/DaniloGMattos/dev.news) | Finished -- documenting   | Server side rendering, Usage of paymaent gateways, Design, Blog development and working with CMS      | A blogging platform     |       Typescript, NextJS, ReactJs,Prismic, SCSS, Stripe|
 ##
 <h3 align="left">Connect with me:</h3>
 <div>  
